@@ -1,0 +1,17 @@
+# Common
+node_modules/
+dist/
+
+# Frontend
+frontend/.quasar/
+frontend/dist/
+frontend/.env
+
+# Backend
+backend/node_modules/
+backend/logs/
+backend/.env
+backend/npm-debug.log*
+
+# Docker
+*.dockerignore
